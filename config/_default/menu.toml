@@ -22,3 +22,10 @@
 
     [social.params]
         icon = "brand-twitter"
+
+[[main]]
+    identifier = "website-utama"
+    name = "Kembali ke eduEasy.id"
+    url = "https://edueasy.id/"
+    weight = 10
+    pre = "home" # Ikon rumah
