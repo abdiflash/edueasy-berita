@@ -1,7 +1,7 @@
 # Ganti baseurl dengan alamat Netlify Anda
-baseurl      = "https://edueasy-berita.netlify.app/"
+baseurl      = "https://berita.edueasy.id/"
 languageCode = "id"
-title        = "EduEasy Berita"
+title        = "eduEasy Berita"
 
 # Theme i18n support
 defaultContentLanguage = "id"
