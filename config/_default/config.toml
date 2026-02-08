@@ -1,9 +1,14 @@
 baseURL = "https://berita.edueasy.id/"
 languageCode = "id"
 title = "eduEasy Berita"
-theme = "hugo-theme-stack"
 
-# Pengaturan Bahasa (Penting pengganti languages.toml)
+# --- PERBAIKAN DI SINI ---
+# Kita gunakan "module" agar Netlify mendownload tema otomatis
+[module]
+  [[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+# Pengaturan Bahasa Indonesia
 [languages.id]
     languageName = "Bahasa Indonesia"
     title = "eduEasy Berita"
@@ -11,7 +16,7 @@ theme = "hugo-theme-stack"
     contentDir = "content"
 
 [params]
-    # Agar tidak error saat build
+    # Agar artikel muncul di halaman depan
     mainSections = ["post"]
     
     [params.sidebar]
