@@ -2,51 +2,55 @@ baseURL = "https://berita.edueasy.id/"
 languageCode = "id"
 title = "eduEasy Berita"
 
-# Module Tema (Wajib)
+# --- 1. MODULE TEMA ---
 [module]
   [[module.imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-# --- PENGATURAN BAHASA & MENU ---
+# --- 2. MENU GLOBAL (Menimpa Menu Bawaan Tema) ---
+# Kita taruh di sini supaya menu tema otomatis tertendang/diganti.
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [menu.main.params]
+        icon = "home"
+
+[[menu.main]]
+    identifier = "archives"
+    name = "Arsip"
+    url = "/archives/"
+    weight = 2
+    # Tanpa icon dulu untuk memastikan ini menu kita
+
+[[menu.main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 3
+    [menu.main.params]
+        icon = "search"
+
+[[menu.main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 4
+    [menu.main.params]
+        icon = "arrow-left" 
+        # Saya ganti nama icon jadi 'arrow-left' (biasanya aman). 
+        # Jika error icon, nanti kita hapus baris ini.
+
+# --- 3. PENGATURAN BAHASA ---
 [languages.id]
     languageName = "Bahasa Indonesia"
     title = "eduEasy Berita"
     weight = 1
     contentDir = "content"
 
-    # MENU 1: HOME (Ikon "home" aman karena bawaan tema)
-    [[languages.id.menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-        weight = 1
-        [languages.id.menu.main.params]
-            icon = "home"
-
-    # MENU 2: ARCHIVES (SUDAH DIPERBAIKI: Ikon dihapus)
-    [[languages.id.menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "/archives/"
-        weight = 2
-        
-    # MENU 3: SEARCH (Ikon "search" aman karena bawaan tema)
-    [[languages.id.menu.main]]
-        identifier = "search"
-        name = "Search"
-        url = "/search/"
-        weight = 3
-        [languages.id.menu.main.params]
-            icon = "search"
-
-    # MENU 4: BACK (Ikon dihapus)
-    [[languages.id.menu.main]]
-        identifier = "back"
-        name = "Kembali ke Utama"
-        url = "https://edueasy.id/"
-        weight = 4
-
-# --- PARAMETER LAINNYA ---
+# --- 4. PARAMETER LAINNYA ---
 [params]
     mainSections = ["post"]
     
