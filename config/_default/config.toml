@@ -7,29 +7,6 @@ defaultContentLanguage = "id"
 # Ini akan "menimpa" menu bawaan tema
 
 [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-    [menu.main.params]
-        icon = "home"
-
-[[menu.main]]
-    identifier = "archives"
-    name = "Arsip"
-    url = "/archives/"
-    weight = 2
-    # Tanpa icon (agar aman)
-
-[[menu.main]]
-    identifier = "search"
-    name = "Cari"
-    url = "/search/"
-    weight = 3
-    [menu.main.params]
-        icon = "search"
-
-[[menu.main]]
     identifier = "back"
     name = "Kembali ke Utama"
     url = "https://edueasy.id/"
