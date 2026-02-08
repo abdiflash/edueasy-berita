@@ -8,13 +8,13 @@ defaultContentLanguage = "id"
   [[module.imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-# Pengaturan Bahasa
+# Pengaturan Bahasa (Hanya definisi dasar, tanpa menu)
 [languages.id]
     languageName = "Bahasa Indonesia"
     title = "eduEasy Berita"
     weight = 1
     contentDir = "content"
-    
+
 # Parameter Website
 [params]
     mainSections = ["post"]
