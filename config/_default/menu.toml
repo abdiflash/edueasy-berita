@@ -7,3 +7,10 @@
     url = "https://edueasy.id/"
     weight = 4
     # Tanpa icon
+
+# --- PENIMPA MENU LINKS ---
+[[main]]
+    identifier = "links"
+    name = "Links"      # Kita namai dulu untuk memastikan ini tertimpa
+    url = "#hidelinks"  # URL unik untuk target penghapusan
+    weight = 999        # Taruh paling bawah
