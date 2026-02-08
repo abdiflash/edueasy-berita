@@ -1,0 +1,32 @@
+# File ini akan MENGGANTIKAN menu bawaan tema.
+# Jadi "Links" tidak akan muncul karena tidak ditulis di sini.
+
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [main.params]
+        icon = "home"
+
+[[main]]
+    identifier = "archives"
+    name = "Arsip"
+    url = "/archives/"
+    weight = 2
+    # Tanpa icon (agar aman dari error deploy)
+
+[[main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 3
+    [main.params]
+        icon = "search"
+
+[[main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 4
+    # Tanpa icon
