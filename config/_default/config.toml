@@ -2,12 +2,6 @@ baseURL = "https://berita.edueasy.id/"
 languageCode = "id"
 title = "eduEasy Berita"
 
-# --- PERBAIKAN DI SINI ---
-# Kita gunakan "module" agar Netlify mendownload tema otomatis
-[module]
-  [[module.imports]]
-    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
-
 # Pengaturan Bahasa Indonesia
 [languages.id]
     languageName = "Bahasa Indonesia"
