@@ -1,3 +1,4 @@
-/*
-    You can add your own custom styles here.
-*/
+/* Sembunyikan menu Links yang sudah kita tandai */
+a[href="#hidelinks"] {
+    display: none !important;
+}
