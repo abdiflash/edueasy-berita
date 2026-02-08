@@ -1,15 +1,19 @@
-# Ganti baseurl dengan alamat Netlify Anda
-baseurl      = "https://berita.edueasy.id/"
+baseURL = "https://berita.edueasy.id/"
 languageCode = "id"
-title        = "eduEasy Berita"
+title = "eduEasy Berita"
+theme = "hugo-theme-stack"
 
-# Theme i18n support
-defaultContentLanguage = "id"
+# Pengaturan Bahasa (Penting pengganti languages.toml)
+[languages.id]
+    languageName = "Bahasa Indonesia"
+    title = "eduEasy Berita"
+    weight = 1
+    contentDir = "content"
 
-hasCJKLanguage = false
-
-# Kosongkan agar tidak muncul komentar demo
-disqusShortname = ""
-
-[pagination]
-    pagerSize = 5
+[params]
+    # Agar tidak error saat build
+    mainSections = ["post"]
+    
+    [params.sidebar]
+        emoji = "🍥"
+        subtitle = "Portal Informasi Pendidikan & Teknologi Terkini."
