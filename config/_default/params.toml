@@ -8,7 +8,7 @@ favicon        = "img/avatar.png" # Nanti kita ganti ikon tab browser ini
 SortBy              = "default"
 
 [footer]
-    since      = 2025 # Tahun update
+    since      = 2026 # Tahun update
     customText = "EduEasy Berita - Informasi Terpercaya." # Copyright di bawah
 
 [dateFormat]
@@ -50,3 +50,4 @@ SortBy              = "default"
 [comments]
     enabled  = false # Saya matikan dulu agar tidak error (karena belum punya akun Disqus)
     provider = "disqus"
+
