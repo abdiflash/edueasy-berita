@@ -50,4 +50,6 @@ SortBy              = "default"
 [comments]
     enabled  = false # Saya matikan dulu agar tidak error (karena belum punya akun Disqus)
     provider = "disqus"
-
+    
+[custom_css]
+    enable = true
