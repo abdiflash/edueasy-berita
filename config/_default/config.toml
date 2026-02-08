@@ -3,23 +3,12 @@ languageCode = "id"
 title = "eduEasy Berita"
 defaultContentLanguage = "id"
 
-# --- MENU GLOBAL (Letakkan di Paling Atas) ---
-# Ini akan "menimpa" menu bawaan tema
-
-[[menu.main]]
-    identifier = "back"
-    name = "Kembali ke Utama"
-    url = "https://edueasy.id/"
-    weight = 4
-    # Tanpa icon (agar aman)
-
-# --- MODULE TEMA ---
+# Module Tema
 [module]
   [[module.imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-# --- PENGATURAN BAHASA ---
-# (Jangan taruh menu lagi di sini!)
+# Pengaturan Bahasa
 [languages]
   [languages.id]
     languageName = "Bahasa Indonesia"
@@ -27,7 +16,7 @@ defaultContentLanguage = "id"
     weight = 1
     contentDir = "content"
 
-# --- PARAMETER SITUS ---
+# Parameter Situs
 [params]
     mainSections = ["post"]
     
