@@ -1,3 +1,4 @@
+# Menu Home
 [[main]]
     identifier = "home"
     name = "Home"
@@ -6,13 +7,18 @@
     [main.params]
         icon = "home"
 
+# Menu Archives
 [[main]]
     identifier = "archives"
     name = "Arsip"
     url = "/archives/"
     weight = 2
-    # Tanpa icon (biar tidak error)
+    [main.params]
+        icon = "archive" 
+        # Icon archive bawaan tema biasanya aman. 
+        # Jika ragu, hapus baris icon ini juga.
 
+# Menu Search
 [[main]]
     identifier = "search"
     name = "Cari"
@@ -21,12 +27,9 @@
     [main.params]
         icon = "search"
 
+# Menu Kembali (TANPA ICON - VERSI AMAN)
 [[main]]
     identifier = "back"
     name = "Kembali ke Utama"
     url = "https://edueasy.id/"
     weight = 4
-    [main.params]
-        icon = "arrow-left" 
-        # Kita coba aktifkan icon panah kiri lagi.
-        # Jika icon ini error lagi nanti, baru kita hapus baris ini.
