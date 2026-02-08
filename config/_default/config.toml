@@ -3,51 +3,52 @@ languageCode = "id"
 title = "eduEasy Berita"
 defaultContentLanguage = "id"
 
-# Module Tema
+# --- MENU GLOBAL (Letakkan di Paling Atas) ---
+# Ini akan "menimpa" menu bawaan tema
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [menu.main.params]
+        icon = "home"
+
+[[menu.main]]
+    identifier = "archives"
+    name = "Arsip"
+    url = "/archives/"
+    weight = 2
+    # Tanpa icon (agar aman)
+
+[[menu.main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 3
+    [menu.main.params]
+        icon = "search"
+
+[[menu.main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 4
+    # Tanpa icon (agar aman)
+
+# --- MODULE TEMA ---
 [module]
   [[module.imports]]
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-# --- PENGATURAN BAHASA & MENU (DISATUKAN DI SINI) ---
+# --- PENGATURAN BAHASA ---
+# (Jangan taruh menu lagi di sini!)
 [languages]
   [languages.id]
     languageName = "Bahasa Indonesia"
     title = "eduEasy Berita"
     weight = 1
     contentDir = "content"
-    
-    # MENU DEFINISI LANGSUNG DI DALAM BAHASA
-    # Ini akan menimpa total menu bawaan tema (Links, dll akan hilang)
-    
-    [[languages.id.menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-        weight = 1
-        [languages.id.menu.main.params]
-            icon = "home"
-
-    [[languages.id.menu.main]]
-        identifier = "archives"
-        name = "Arsip"
-        url = "/archives/"
-        weight = 2
-        # Tanpa icon (agar aman)
-
-    [[languages.id.menu.main]]
-        identifier = "search"
-        name = "Cari"
-        url = "/search/"
-        weight = 3
-        [languages.id.menu.main.params]
-            icon = "search"
-
-    [[languages.id.menu.main]]
-        identifier = "back"
-        name = "Kembali ke Utama"
-        url = "https://edueasy.id/"
-        weight = 4
-        # Tanpa icon (agar aman)
 
 # --- PARAMETER SITUS ---
 [params]
