@@ -1,0 +1,32 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [main.params]
+        icon = "home"
+
+[[main]]
+    identifier = "archives"
+    name = "Arsip"
+    url = "/archives/"
+    weight = 2
+    # Tanpa icon (biar tidak error)
+
+[[main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 3
+    [main.params]
+        icon = "search"
+
+[[main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 4
+    [main.params]
+        icon = "arrow-left" 
+        # Kita coba aktifkan icon panah kiri lagi.
+        # Jika icon ini error lagi nanti, baru kita hapus baris ini.
