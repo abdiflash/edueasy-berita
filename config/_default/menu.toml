@@ -11,8 +11,7 @@
     name = "Archives"
     url = "/archives/"
     weight = 2
-    [main.params]
-        icon = "archive"
+    # Icon dihapus sementara agar tidak error
 
 [[main]]
     identifier = "search"
@@ -27,5 +26,4 @@
     name = "Back"
     url = "https://edueasy.id/"
     weight = 4
-    [main.params]
-        icon = "arrow-left"
+    # Icon dihapus sementara agar tidak error
