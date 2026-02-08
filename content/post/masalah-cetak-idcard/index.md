@@ -2,7 +2,8 @@
 title: "Musim Ajaran Baru, Masih Lembur Ngetik Nama Siswa Satu-Satu? Duh, Sayang Matanya..."
 description: "Stop cara lama yang bikin mata pedih. Ini solusi cetak ratusan Kartu Pelajar tanpa lembur dan anti salah ketik."
 date: 2024-02-07T10:00:00+07:00
-image: "image.png" 
+image: "image.png"
+draft: false
 categories:
     - "Produktivitas"
     - "Teknologi Sekolah"
