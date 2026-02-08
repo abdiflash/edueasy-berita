@@ -8,7 +8,7 @@ title = "eduEasy Berita"
     path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 # --- 2. MENU GLOBAL (Menimpa Menu Bawaan Tema) ---
-# Kita taruh di sini supaya menu tema otomatis tertendang/diganti.
+# Struktur ini akan menghilangkan menu ganda
 
 [[menu.main]]
     identifier = "home"
@@ -23,7 +23,7 @@ title = "eduEasy Berita"
     name = "Arsip"
     url = "/archives/"
     weight = 2
-    # Tanpa icon dulu untuk memastikan ini menu kita
+    # Tanpa icon (Aman)
 
 [[menu.main]]
     identifier = "search"
@@ -38,10 +38,7 @@ title = "eduEasy Berita"
     name = "Kembali ke Utama"
     url = "https://edueasy.id/"
     weight = 4
-    [menu.main.params]
-        icon = "arrow-left" 
-        # Saya ganti nama icon jadi 'arrow-left' (biasanya aman). 
-        # Jika error icon, nanti kita hapus baris ini.
+    # SAYA HAPUS BAGIAN ICON DI SINI SUPAYA TIDAK ERROR LAGI
 
 # --- 3. PENGATURAN BAHASA ---
 [languages.id]
