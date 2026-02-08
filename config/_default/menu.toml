@@ -26,4 +26,3 @@
 [[menu.main]]
 name = "Back"
 url = "https://edueasy.id/"
-params = { icon = "arrow-left.svg" }
