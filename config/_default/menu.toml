@@ -10,7 +10,12 @@
 
 [[main]]
     identifier = "links"
-    name = "Aplikasi"   # <--- Ganti "Links" jadi "Aplikasi" / "Portal"
+    name = "Aplikasi"
     url = "/links/"
-    weight = 5          # Atur posisi urutan menu
-    pre = "server"      # Ganti ikon rantai jadi ikon server/list (opsional)
+    weight = 5
+    
+    # HAPUS baris 'pre = ...' yang lama
+    # GANTI dengan format params di bawah ini:
+    [main.params]
+        icon = "link"  # Kita pakai ikon "link" karena "server" belum ada filenya
+        newTab = true
