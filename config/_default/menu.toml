@@ -1,28 +1,11 @@
-# Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
 
-[[social]]
-    identifier = "github"
-    name       = "GitHub"
-    url        = "https://github.com/abdiflash/edueasy-berita"
-
-    [social.params]
-        icon = "brand-github"
-
-[[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
-
-    [social.params]
-        icon = "brand-twitter"
-
-[[menu.main]]
-name = "Back"
-url = "https://edueasy.id/"
+[[main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 2
