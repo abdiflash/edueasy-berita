@@ -1,4 +1,16 @@
-/* Sembunyikan menu Links yang sudah kita tandai */
+/* Opsi 1: Sembunyikan jika URL-nya berhasil diubah ke #hidelinks */
 a[href="#hidelinks"] {
     display: none !important;
+}
+.menu-main li:has(a[href="#hidelinks"]) {
+    display: none !important;
+}
+
+/* Opsi 2 (NUKLIR): Sembunyikan APAPUN menu yang pakai ikon Rantai (Link) */
+/* Ini akan bekerja meskipun config menu.toml gagal */
+.menu-main li a .icon-link {
+    display: none !important; /* Sembunyikan ikonnya */
+}
+.menu-main li:has(.icon-link) {
+    display: none !important; /* Sembunyikan satu baris menu itu */
 }
