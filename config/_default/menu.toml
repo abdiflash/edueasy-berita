@@ -1,4 +1,4 @@
-# Menu Home
+# Menu Home (Icon home biasanya aman)
 [[main]]
     identifier = "home"
     name = "Home"
@@ -7,18 +7,14 @@
     [main.params]
         icon = "home"
 
-# Menu Archives
+# Menu Archives (SAYA HAPUS ICON-NYA SUPAYA TIDAK ERROR)
 [[main]]
     identifier = "archives"
     name = "Arsip"
     url = "/archives/"
     weight = 2
-    [main.params]
-        icon = "archive" 
-        # Icon archive bawaan tema biasanya aman. 
-        # Jika ragu, hapus baris icon ini juga.
 
-# Menu Search
+# Menu Search (Icon search biasanya aman)
 [[main]]
     identifier = "search"
     name = "Cari"
@@ -27,7 +23,7 @@
     [main.params]
         icon = "search"
 
-# Menu Kembali (TANPA ICON - VERSI AMAN)
+# Menu Kembali (Tanpa Icon)
 [[main]]
     identifier = "back"
     name = "Kembali ke Utama"
