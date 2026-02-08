@@ -2,20 +2,20 @@
 # Jadi "Links" tidak akan muncul karena tidak ditulis di sini.
 
 [[main]]
-    identifier = "back"
-    name = "Kembali ke Utama"
-    url = "https://edueasy.id/"
-    weight = 4
-    # Tanpa icon
-
-[[main]]
     identifier = "links"
     name = "Aplikasi"
     url = "/links/"
-    weight = 5
+    weight = 4
     
     # HAPUS baris 'pre = ...' yang lama
     # GANTI dengan format params di bawah ini:
     [main.params]
         icon = "link"  # Kita pakai ikon "link" karena "server" belum ada filenya
         newTab = true
+
+[[main]]
+    identifier = "back"
+    name = "Kembali ke Utama"
+    url = "https://edueasy.id/"
+    weight = 5
+    # Tanpa icon
