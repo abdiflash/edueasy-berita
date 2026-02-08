@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon        = "img/favicon.png" # Nanti kita ganti ikon tab browser ini
+favicon        = "img/avatar.png" # Nanti kita ganti ikon tab browser ini
 
 # Pengaturan urutan artikel
 SortBy              = "default"
