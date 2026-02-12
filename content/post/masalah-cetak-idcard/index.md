@@ -1,87 +1,88 @@
 ---
-title: "Musim Ajaran Baru, Masih Lembur Ngetik Nama Siswa Satu-Satu? Duh, Sayang Matanya..."
-description: "Stop cara lama yang bikin mata pedih. Ini solusi cetak ratusan Kartu Pelajar tanpa lembur dan anti salah ketik."
-date: 2026-02-07T10:00:00+07:00
+title: "Standar Foto untuk ID Card Generator"
+description: "Panduan visual singkat agar foto dapat diproses otomatis dengan proporsional."
+date: 2026-02-12T10:00:00+07:00
 image: "image.png"
 draft: false
 categories:
-    - "Produktivitas"
-    - "Teknologi Sekolah"
+    - "Panduan Teknis"
 tags:
     - "ID Card"
-    - "Tata Usaha"
-    - "Fotografer"
 ---
 
-**Jujur deh, Pak, Bu...**
+# 📸 Standar Foto (WAJIB)
 
-Setiap kali tahun ajaran baru dimulai (PPDB), apakah ruangan Tata Usaha berubah menjadi "medan perang"?
-
-Fotografer datang membawa ratusan file foto siswa. Staf TU menyodorkan file Excel berisi data nama, NIS, dan NIK. Lalu dimulailah "ritual" tahunan yang melelahkan itu:
-
-1.  Buka Photoshop atau CorelDraw.
-2.  Copy nama siswa dari Excel.
-3.  Paste ke desain kartu.
-4.  Copy NIS, paste lagi.
-5.  Masukin foto, geser-geser biar pas.
-6.  *Ulangi proses ini 500 kali.* 🤯
-
-### Masalah Terbesar: Mata Lelah = Rawan Salah
-
-Masalah utamanya bukan cuma capek. Tapi **Human Error**.
-
-Ketika kita sudah mengetik nama ke-100, mata mulai pedih dan fokus hilang.
-* Huruf **'A'** tertulis **'E'**.
-* Angka NIK kurang satu digit.
-* Foto siswa A tertukar dengan siswa B.
-
-Akibatnya? Kartu sudah dicetak mahal-mahal, eh diprotes orang tua. Harus edit ulang, cetak ulang. Rugi waktu, rugi kertas, dan pastinya bikin *mood* kerja jadi rusak.
-
-Belum lagi kalau Sekolah minta ada **Barcode** atau **QR Code** buat absen perpustakaan. Wah, makin pusing karena harus bikin barcode-nya satu-satu pakai aplikasi lain.
-
-### Berhenti Menyiksa Diri Sendiri
-
-Zaman sudah canggih, kenapa cara kerjanya masih manual?
-
-Perkenalkan **EduEasy ID Card Generator**. Aplikasi ini kami buat khusus karena kami *ngerti* banget penderitaan fotografer sekolah dan staf TU.
-
-Kenapa Bapak/Ibu wajib coba aplikasi ini?
-
-#### 1. Sekali Klik, Ratusan Kartu Jadi
-Lupakan *Copy-Paste*. Cukup **Upload file Excel** data siswa dan folder foto. Klik tombol "Generate".
-*Boom!* Dalam hitungan detik, 500 kartu pelajar langsung jadi dalam format PDF siap cetak.
-
-#### 2. Barcode Otomatis (Gak Perlu Aplikasi Tambahan)
-Butuh Barcode atau QR Code buat absen? EduEasy otomatis membuatkannya sesuai NIS siswa. Gak perlu ribet bikin manual lagi.
-
-#### 3. Data Pasti Akurat
-Karena datanya langsung mengambil dari Excel (Dapodik/Absensi), **0% risiko salah ketik**. Nama di Excel "Budi", di kartu pasti "Budi".
-
-#### 4. Tidak Perlu Jago Desain
-Gak bisa Photoshop? Gak masalah. Kami sediakan *template* yang bisa disesuaikan, atau Bapak/Ibu bisa upload desain background sendiri. Tinggal pasang, jadi.
+Agar foto dapat diproses otomatis dengan hasil proporsional, ikuti standar berikut.
 
 ---
 
-### Mau Pulang Tenggo (Teng-Go) Hari Ini?
+## 1️⃣ Format
 
-Sudahi lembur yang tidak perlu. Biarkan aplikasi kami yang bekerja keras, Bapak/Ibu tinggal duduk manis sambil ngopi, nunggu hasil PDF-nya keluar.
+- **Portrait (vertikal)**
+- **Rasio 2:3 atau 3:4**
+- **Tinggi minimal 1000 px**
+- Format: JPG / JPEG
 
-Kami tantang Bapak/Ibu untuk mencobanya sekarang. Gratis kok buat tes drive.
+---
 
-<br>
+## 2️⃣ Komposisi (PENTING)
 
-<div style="text-align: center;">
-    <a href="https://LINK_DEMO_APLIKASI_ANDA_DISINI" style="background-color: #007bff; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 1.1em; display: inline-block; margin-bottom: 10px;">
-        🚀 Coba Demo Gratis Sekarang
-    </a>
-    <p style="font-size: 0.9em; color: #666;">(Tanpa perlu install, langsung dari browser)</p>
-</div>
+```
++----------------------+
+|        Headroom      |  ← Ada ruang di atas kepala
+|                      |
+|   ----------------   |
+|   |   Garis Mata  |  |  ← Mata ± 1/3 dari atas
+|   ----------------   |
+|                      |
+|         Dagu         |
++----------------------+
+```
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin-top: 30px; border-left: 5px solid #28a745;">
-    <h4>💼 Penawaran Khusus Fotografer & Sekolah</h4>
-    <p>Sudah coba dan puas? Dapatkan akses <strong>Premium Tanpa Batas</strong> untuk mencetak ribuan kartu.</p>
-    <a href="https://wa.me/628123456789?text=Halo%20EduEasy,%20saya%20tertarik%20beli%20lisensi%20ID%20Card%20Generator" style="color: #28a745; font-weight: bold; text-decoration: underline;">
-        Hubungi WhatsApp Kami untuk Harga Terbaik &raquo;
-    </a>
-</div>
+- Wajah menghadap lurus kamera  
+- Bahu sejajar (tidak miring)  
+- **Jangan terlalu mepet atas**
+- **Posisi mata ± 1/3 bagian atas foto**
 
+Standar ini membantu sistem menempatkan wajah secara konsisten di dalam template ID Card.
+
+---
+
+## 3️⃣ Background & Cahaya
+
+- Background polos (putih / biru / abu netral)
+- Pencahayaan merata di kedua sisi wajah
+- Hindari bayangan keras dan overexposure
+
+---
+
+## 4️⃣ Penamaan File (WAJIB)
+
+Gunakan format berikut:
+
+```
+NIK_NamaLengkap.jpg
+```
+
+Contoh:
+
+```
+123456_AndiPratama.jpg
+```
+
+Ketentuan:
+- Gunakan underscore (_)
+- Tidak menggunakan spasi
+- Hindari simbol khusus (#, %, &, dll)
+- Pastikan NIK sesuai data resmi
+
+---
+
+## 🔄 Alur Singkat
+
+1. Foto sesuai standar  
+2. Rename file sesuai format  
+3. Upload ke sistem  
+4. Klik Generate  
+
+Selesai.
