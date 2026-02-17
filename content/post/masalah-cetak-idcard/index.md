@@ -1,5 +1,5 @@
 ---
-title: "Fotografer "Kampung" Ciptakan ID Card Generator, Solusi Proyek 500 Kartu Tanpa Lembur"
+title: "Fotografer Sekolah - Ciptakan sistem ID Card Generator, Solusi Proyek 500 Kartu Tanpa Lembur"
 description: "Aplikasi otomatis untuk memproses puluhan hingga ratusan ID Card hanya dalam hitungan menit."
 date: 2026-02-16T10:00:00+07:00
 image: "image.png"
