@@ -16,8 +16,8 @@ tags:
 
 Mendapat tawaran proyek pembuatan **300–500 ID Card** dari sekolah atau instansi sering kali menjadi dilema bagi fotografer.
 
-Secara nilai proyek sangat menarik.  
-Namun proses pengerjaannya sering kali melelahkan dan penuh tekanan.
+Nilai proyeknya menarik.  
+Namun proses pengerjaannya tidak sesederhana yang dibayangkan.
 
 Mulai dari:
 
@@ -27,19 +27,22 @@ Mulai dari:
 - Menginput NIK satu per satu  
 - Mengonversi NIK menjadi barcode satu per satu  
 
-Kesalahan kecil seperti typo satu huruf saja dapat berdampak besar saat cetak massal.
+Kesalahan kecil seperti typo satu huruf saja dapat berdampak besar saat cetak massal.  
+Belum lagi tekanan deadline yang membuat proses semakin melelahkan.
 
 ---
 
 ## 💡 Lahir dari Pengalaman Nyata
 
-Berangkat dari pengalaman lembur dan tekanan deadline tersebut, eduEasy.id menciptakan sebuah sistem otomatis yang mampu menyederhanakan seluruh proses layout ID Card massal.
+Berangkat dari pengalaman lembur dan tekanan deadline tersebut, **eduEasy.id** menghadirkan sebuah sistem otomatis yang mampu menyederhanakan seluruh proses layout ID Card massal.
 
 Aplikasi tersebut diberi nama:
 
 # 🔥 ID CARD GENERATOR
 
-Sebuah sistem yang dirancang khusus untuk membantu fotografer profesional dan pelaku usaha jasa percetakan menangani produksi massal dengan lebih cepat dan presisi.
+ID Card Generator ini dibangun oleh **Leonardus Yesiabdi Luhur, Amd.Kom.**, seorang praktisi yang memiliki hobi dan dedikasi di bidang fotografi selama puluhan tahun. Berbekal pengalaman panjang menangani proyek kartu identitas sekolah dan instansi, serta latar belakang pendidikan **Teknik Informatika**, ia menggabungkan pemahaman teknis fotografi dan sistem otomatisasi menjadi sebuah solusi praktis.
+
+Sebuah sistem yang dirancang khusus untuk membantu fotografer profesional dan pelaku usaha jasa percetakan menangani produksi massal dengan lebih cepat, rapi, dan presisi.
 
 ---
 
@@ -52,7 +55,7 @@ ID Card Generator mampu:
 - Menghasilkan puluhan hingga ratusan kartu dalam sekali klik  
 - Menghasilkan output **PNG High Resolution siap cetak**
 
-Dengan sistem ini, proses yang sebelumnya memakan waktu berhari-hari dapat diselesaikan dalam hitungan menit/jam saja.
+Dengan sistem ini, proses yang sebelumnya memakan waktu berhari-hari kini dapat diselesaikan dalam hitungan menit atau jam saja, tergantung jumlah data.
 
 ---
 
@@ -65,7 +68,7 @@ Aplikasi ini dirancang untuk:
 - UMKM jasa percetakan  
 - Tim administrasi yang menangani kartu identitas massal  
 
-Kini proyek besar bukan lagi beban, melainkan peluang.
+Kini proyek besar bukan lagi beban, melainkan peluang untuk meningkatkan skala bisnis.
 
 ---
 
@@ -73,10 +76,11 @@ Kini proyek besar bukan lagi beban, melainkan peluang.
 
 1. Lakukan sesi foto sesuai standar  
 2. Rename file dengan format:  
+   `NIK_NamaLengkap.jpg`  
 3. Upload ke sistem  
 4. Klik Generate  
 
-Selesai.
+Selesai.  
 Layout ID Card langsung terbentuk otomatis dan siap dicetak.
 
 ---
@@ -96,4 +100,3 @@ Kini saatnya beralih dari kerja manual yang melelahkan menuju sistem kerja yang 
 Kerja lebih cepat.  
 Lebih presisi.  
 Lebih profesional.
-
