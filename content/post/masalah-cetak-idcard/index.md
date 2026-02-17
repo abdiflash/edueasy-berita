@@ -1,88 +1,99 @@
 ---
-title: "Standar Foto untuk ID Card Generator"
-description: "Panduan visual singkat agar foto dapat diproses otomatis dengan proporsional."
-date: 2026-02-12T10:00:00+07:00
+title: "Fotografer Ciptakan ID Card Generator, Solusi Proyek 500 Kartu Tanpa Lembur"
+description: "Aplikasi otomatis untuk memproses puluhan hingga ratusan ID Card hanya dalam hitungan menit."
+date: 2026-02-16T10:00:00+07:00
 image: "image.png"
 draft: false
 categories:
-    - "Panduan Teknis"
+    - "Berita Produk"
 tags:
     - "ID Card"
+    - "Fotografer"
+    - "Otomatisasi"
 ---
 
-# 📸 Standar Foto (WAJIB)
+# 🚀 Dari Deadline 500 Kartu, Lahir Solusi Otomatis
 
-Agar foto dapat diproses otomatis dengan hasil proporsional, ikuti standar berikut.
+Mendapat tawaran proyek pembuatan **300–500 ID Card** dari sekolah atau instansi sering kali menjadi dilema bagi fotografer.
 
----
+Secara nilai proyek sangat menarik.  
+Namun proses pengerjaannya sering kali melelahkan dan penuh tekanan.
 
-## 1️⃣ Format
+Mulai dari:
 
-- **Portrait (vertikal)**
-- **Rasio 2:3 atau 3:4**
-- **Tinggi minimal 1000 px**
-- Format: JPG / JPEG
+- Membuat desain background  
+- Memasukkan foto satu per satu  
+- Mengetik nama satu per satu  
+- Menginput NIK satu per satu  
+- Mengonversi NIK menjadi barcode satu per satu  
 
----
-
-## 2️⃣ Komposisi (PENTING)
-
-```
-+----------------------+
-|        Headroom      |  ← Ada ruang di atas kepala
-|                      |
-|   ----------------   |
-|   |   Garis Mata  |  |  ← Mata ± 1/3 dari atas
-|   ----------------   |
-|                      |
-|         Dagu         |
-+----------------------+
-```
-
-- Wajah menghadap lurus kamera  
-- Bahu sejajar (tidak miring)  
-- **Jangan terlalu mepet atas**
-- **Posisi mata ± 1/3 bagian atas foto**
-
-Standar ini membantu sistem menempatkan wajah secara konsisten di dalam template ID Card.
+Kesalahan kecil seperti typo satu huruf saja dapat berdampak besar saat cetak massal.
 
 ---
 
-## 3️⃣ Background & Cahaya
+## 💡 Lahir dari Pengalaman Nyata
 
-- Background polos (putih / biru / abu netral)
-- Pencahayaan merata di kedua sisi wajah
-- Hindari bayangan keras dan overexposure
+Berangkat dari pengalaman lembur dan tekanan deadline tersebut, eduEasy.id menciptakan sebuah sistem otomatis yang mampu menyederhanakan seluruh proses layout ID Card massal.
 
----
+Aplikasi tersebut diberi nama:
 
-## 4️⃣ Penamaan File (WAJIB)
+# 🔥 ID CARD GENERATOR
 
-Gunakan format berikut:
-
-```
-NIK_NamaLengkap.jpg
-```
-
-Contoh:
-
-```
-123456_AndiPratama.jpg
-```
-
-Ketentuan:
-- Gunakan underscore (_)
-- Tidak menggunakan spasi
-- Hindari simbol khusus (#, %, &, dll)
-- Pastikan NIK sesuai data resmi
+Sebuah sistem yang dirancang khusus untuk membantu fotografer profesional dan pelaku usaha jasa percetakan menangani produksi massal dengan lebih cepat dan presisi.
 
 ---
 
-## 🔄 Alur Singkat
+## ⚙️ Fitur Unggulan
 
-1. Foto sesuai standar  
-2. Rename file sesuai format  
+ID Card Generator mampu:
+
+- Membaca **Nama & NIK otomatis** dari nama file  
+- Mengubah **NIK menjadi Barcode otomatis**  
+- Menghasilkan puluhan hingga ratusan kartu dalam sekali klik  
+- Menghasilkan output **PNG High Resolution siap cetak**
+
+Dengan sistem ini, proses yang sebelumnya memakan waktu berhari-hari dapat diselesaikan dalam hitungan menit/jam saja.
+
+---
+
+## 🎯 Siapa yang Cocok Menggunakan?
+
+Aplikasi ini dirancang untuk:
+
+- Fotografer sekolah  
+- Fotografer instansi/perusahaan  
+- UMKM jasa percetakan  
+- Tim administrasi yang menangani kartu identitas massal  
+
+Kini proyek besar bukan lagi beban, melainkan peluang.
+
+---
+
+## 🔄 Cara Kerja Singkat
+
+1. Lakukan sesi foto sesuai standar  
+2. Rename file dengan format:  
 3. Upload ke sistem  
 4. Klik Generate  
 
 Selesai.
+Layout ID Card langsung terbentuk otomatis dan siap dicetak.
+
+---
+
+## 🎉 Promo Launching
+
+Dalam rangka peluncuran awal, tersedia **diskon 50% untuk 10 pengguna pertama.**
+
+Informasi lengkap dan demo dapat diakses melalui website resmi:
+
+⭐ **www.edueasy.id** ⭐
+
+---
+
+Kini saatnya beralih dari kerja manual yang melelahkan menuju sistem kerja yang lebih cerdas.
+
+Kerja lebih cepat.  
+Lebih presisi.  
+Lebih profesional.
+
