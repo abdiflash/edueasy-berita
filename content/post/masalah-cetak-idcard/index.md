@@ -34,13 +34,13 @@ Belum lagi tekanan deadline yang membuat proses semakin melelahkan.
 
 ## 💡 Lahir dari Pengalaman Nyata
 
-Berangkat dari pengalaman lembur dan tekanan deadline tersebut, **eduEasy.id** menghadirkan sebuah sistem otomatis yang mampu menyederhanakan seluruh proses layout ID Card massal.
+Berangkat dari pengalaman lembur dan tekanan deadline tersebut, **Tim eduEasy.id** menghadirkan sebuah sistem otomatis yang mampu menyederhanakan seluruh proses layout ID Card massal.
 
 Aplikasi tersebut diberi nama:
 
 # 🔥 ID CARD GENERATOR
 
-ID Card Generator ini dibangun oleh **Leonardus Yesiabdi Luhur, Amd.Kom.**, seorang praktisi yang memiliki hobi dan dedikasi di bidang fotografi selama puluhan tahun. Berbekal pengalaman panjang menangani dunia fotografi, serta latar belakang pendidikan **Teknik Informatika**, ia menggabungkan pemahaman teknis fotografi dan sistem otomatisasi menjadi sebuah solusi praktis.
+ID Card Generator ini pertama kali dilaunching oleh **Leonardus Yesiabdi Luhur, Amd.Kom.**, seorang praktisi yang memiliki hobi dan dedikasi di bidang fotografi selama puluhan tahun. Berbekal pengalaman panjang menangani dunia fotografi, serta latar belakang pendidikan **Teknik Informatika**, ia menggabungkan pemahaman teknis fotografi dan sistem otomatisasi menjadi sebuah solusi praktis.
 
 Sebuah sistem yang dirancang khusus untuk membantu fotografer profesional dan pelaku usaha jasa percetakan menangani produksi massal dengan lebih cepat, rapi, dan presisi.
 
@@ -76,7 +76,7 @@ Kini proyek besar bukan lagi beban, melainkan peluang untuk meningkatkan skala b
 
 1. Lakukan sesi foto sesuai standar  
 2. Rename file dengan format:  
-   `NIK_NamaLengkap.jpg`  
+   'NIK_NamaLengkap.jpg' atau 'NIK(spasi)NamaLengkap.jpg'  
 3. Upload ke sistem  
 4. Klik Generate  
 
@@ -91,7 +91,7 @@ Dalam rangka peluncuran awal, tersedia **diskon 50% untuk 10 pengguna pertama.**
 
 Informasi lengkap dan demo dapat diakses melalui website resmi:
 
-⭐ **www.edueasy.id** ⭐
+⭐ https://edueasy.id/id-card/index-demo.html 
 
 ---
 
