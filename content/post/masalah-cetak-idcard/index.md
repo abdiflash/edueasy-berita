@@ -40,7 +40,7 @@ Aplikasi tersebut diberi nama:
 
 # 🔥 ID CARD GENERATOR
 
-ID Card Generator ini pertama kali dilaunching oleh **Leonardus Yesiabdi Luhur, Amd.Kom.**, seorang praktisi yang memiliki hobi dan dedikasi di bidang fotografi selama puluhan tahun. Berbekal pengalaman panjang menangani dunia fotografi, serta latar belakang pendidikan **Teknik Informatika**, ia menggabungkan pemahaman teknis fotografi dan sistem otomatisasi menjadi sebuah solusi praktis.
+ID Card Generator ini pertama kali dilaunching oleh seorang praktisi yang memiliki hobi dan dedikasi di bidang fotografi selama puluhan tahun. Berbekal pengalaman panjang menangani dunia fotografi, serta latar belakang pendidikan **Teknik Informatika**, ia menggabungkan pemahaman teknis fotografi dan sistem otomatisasi menjadi sebuah solusi praktis.
 
 Sebuah sistem yang dirancang khusus untuk membantu fotografer profesional dan pelaku usaha jasa percetakan menangani produksi massal dengan lebih cepat, rapi, dan presisi.
 
