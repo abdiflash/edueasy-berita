@@ -1,5 +1,5 @@
 ---
-title: "Fotografer Sekolah - Ciptakan sistem ID Card Generator, Solusi Proyek 500 Kartu Tanpa Lembur"
+title: "Fotografer Sekolah - Ciptakan sistem ID Card Generator, Solusi Proyek 300 Kartu Tanpa Lembur"
 description: "Aplikasi otomatis untuk memproses puluhan hingga ratusan ID Card hanya dalam hitungan menit."
 date: 2026-02-16T10:00:00+07:00
 image: "image.png"
@@ -12,9 +12,9 @@ tags:
     - "Otomatisasi"
 ---
 
-# 🚀 Dari Deadline 500 Kartu, Lahir Solusi Otomatis
+# 🚀 Dari Deadline 300 Kartu, Lahir Solusi Otomatis
 
-Mendapat tawaran proyek pembuatan **300–500 ID Card** dari sekolah atau instansi sering kali menjadi dilema bagi fotografer.
+Mendapat tawaran proyek pembuatan **300 ID Card** dari sekolah atau instansi sering kali menjadi dilema bagi fotografer.
 
 Nilai proyeknya menarik.  
 Namun proses pengerjaannya tidak sesederhana yang dibayangkan.
