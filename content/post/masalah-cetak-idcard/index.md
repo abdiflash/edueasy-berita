@@ -16,7 +16,7 @@ tags:
 
 Mendapat tawaran proyek pembuatan **300 ID Card** dari sekolah atau instansi sering kali menjadi dilema bagi fotografer.
 
-Nilai proyeknya menarik..  
+Nilai proyeknya menarik.  
 Namun proses pengerjaannya tidak sesederhana yang dibayangkan.
 
 Mulai dari:
