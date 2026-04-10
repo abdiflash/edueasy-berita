@@ -78,7 +78,7 @@ Kini proyek besar bukan lagi beban, melainkan peluang untuk meningkatkan skala b
 2. Rename file dengan format:  
    'NIK_NamaLengkap.jpg' atau 'NIK(spasi)NamaLengkap.jpg'  
 3. Upload ke sistem  
-4. Klik Generate  
+4. Klik Generate!  
 
 Selesai.  
 Layout ID Card langsung terbentuk otomatis dan siap dicetak.
